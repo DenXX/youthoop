@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://youthoop.org
+
+# Sitemaps
+Sitemap: https://youthoop.org/sitemap.xml
